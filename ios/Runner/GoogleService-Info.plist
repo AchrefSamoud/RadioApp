@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>408373931839-8884q1mi6iq8s1vfh5f2njn0ri9gbl1l.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.408373931839-8884q1mi6iq8s1vfh5f2njn0ri9gbl1l</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBHha8ztnoV7E0v8-CCkA02xyDBK94UECU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>408373931839</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.radioproject</string>
+	<key>PROJECT_ID</key>
+	<string>radio-9ec61</string>
+	<key>STORAGE_BUCKET</key>
+	<string>radio-9ec61.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:408373931839:ios:900b1309a51d705ba4ed8a</string>
+	<key>DATABASE_URL</key>
+	<string>https://radio-9ec61-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
